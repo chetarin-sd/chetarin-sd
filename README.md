@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @chetarin-sd
+- 👀 I’m interested in programming.
