@@ -9,3 +9,5 @@
     <a href="https://wongsin.com">Visit my resume</a> — <a href="https://facebook.com/chetarin">Facebook</a> — <a href="https://youtube.com/c/yaknoiichannel">Youtube</a>
   </p>
 </div>
+
+---
