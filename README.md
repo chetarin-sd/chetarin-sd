@@ -12,3 +12,6 @@
 
 ---
 ![Chetarin's github stats](https://github-readme-stats.vercel.app/api?username=chetarin-sd&show_icons=true)
+
+<!--
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chetarin-sd)
